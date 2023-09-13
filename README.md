@@ -21,4 +21,3 @@ It provides all the necessary things to the plant-based on surrounding condition
 9) DHT11 - Temperature And Humidity Sensor Module
 10) GL12 840 Points Solderless Breadboard
 11) Electrical PVC Insulating Tape
-12) 
